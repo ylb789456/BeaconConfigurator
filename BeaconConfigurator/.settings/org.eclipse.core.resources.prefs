@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/fr/polytech/com/bluetooth/Application.java=UTF-8
+encoding//src/fr/polytech/com/bluetooth/BluCatUtil.java=UTF-8
+encoding//src/fr/polytech/com/bluetooth/BluetoothService.java=UTF-8
+encoding//src/fr/polytech/com/bluetooth/RemoteDeviceDiscovery.java=UTF-8
+encoding//src/fr/polytech/com/pages/BeaconExistListPage.java=UTF-8
+encoding//src/fr/polytech/com/pages/BeaconInfoPage.java=UTF-8
